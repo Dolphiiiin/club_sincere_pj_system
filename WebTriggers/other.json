@@ -1,0 +1,72 @@
+{
+  "triggers": [
+    {
+      "displayName": "MirrorBall_OFF",
+      "category": "MirrorBall",
+      "showConfirmDialog": false,
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "state": [
+        {
+          "key": "MirrorBall",
+          "type": "bool",
+          "value": false
+        }
+      ]
+    },
+    {
+      "displayName": "MirrorBall_ON",
+      "category": "MirrorBall",
+      "showConfirmDialog": false,
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "state": [
+        {
+          "key": "MirrorBall",
+          "type": "bool",
+          "value": true
+        }
+      ]
+    },
+    {
+      "displayName": "StageSide_Fire_OFF",
+      "category": "StageSide_Fire",
+      "showConfirmDialog": false,
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "state": [
+        {
+          "key": "StageSide_Fire",
+          "type": "bool",
+          "value": false
+        }
+      ]
+    },
+    {
+      "displayName": "StageSide_Fire_ON",
+      "category": "StageSide_Fire",
+      "showConfirmDialog": false,
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "state": [
+        {
+          "key": "StageSide_Fire",
+          "type": "bool",
+          "value": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "displayName": "StageTopMovingLight_Color__White",
+  "category": "StageTopMovingLight_Color",
+  "showConfirmDialog": false,
+  "color": [
+    0.99609375,
+    0.99609375,
+    0.99609375
+  ],
+  "state": [
+    {
+      "key": "StageTopMovingLight_Color",
+      "type": "float",
+      "value": 0
+    }
+  ]
+},
+{
+"displayName": "StageTopMovingLight_Color__Red",
+"category": "StageTopMovingLight_Color",
+"showConfirmDialog": false,
+"color": [
+0.91796875,
+0.078125,
+0.296875
+],
+"state": [
+{
+"key": "StageTopMovingLight_Color",
+"type": "float",
+"value": 1
+}
+]
+},
+{
+"displayName": "StageTopMovingLight_Color__LightGreen",
+"category": "StageTopMovingLight_Color",
+"showConfirmDialog": false,
+"color": [
+0,
+0.8125,
+0.515625
+],
+"state": [
+{
+"key": "StageTopMovingLight_Color",
+"type": "float",
+"value": 2
+}
+]
+},
+{
+"displayName": "StageTopMovingLight_Color__Orange",
+"category": "StageTopMovingLight_Color",
+"showConfirmDialog": false,
+"color": [
+0.99609375,
+0.41015625,
+0
+],
+"state": [
+{
+"key": "StageTopMovingLight_Color",
+"type": "float",
+"value": 3
+}
+]
+},
+{
+"displayName": "StageTopMovingLight_Color__Blue",
+"category": "StageTopMovingLight_Color",
+"showConfirmDialog": false,
+"color": [
+0.0234375,
+0.57421875,
+0.88671875
+],
+"state": [
+{
+"key": "StageTopMovingLight_Color",
+"type": "float",
+"value": 4
+}
+]
+},
+{
+"displayName": "StageTopMovingLight_Color__Yellow",
+"category": "StageTopMovingLight_Color",
+"showConfirmDialog": false,
+"color": [
+0.984375,
+0.72265625,
+0
+],
+"state": [
+{
+"key": "StageTopMovingLight_Color",
+"type": "float",
+"value": 5
+}
+]
+},
+{
+"displayName": "StageTopMovingLight_Color__LightGreen",
+"category": "StageTopMovingLight_Color",
+"showConfirmDialog": false,
+"color": [
+0.48046875,
+0.859375,
+0.70703125
+],
+"state": [
+{
+"key": "StageTopMovingLight_Color",
+"type": "float",
+"value": 6
+}
+]
+},
+{
+"displayName": "StageTopMovingLight_Color_LightBlue",
+"category": "StageTopMovingLight_Color",
+"showConfirmDialog": false,
+"color": [
+0.5546875,
+0.81640625,
+0.984375
+],
+"state": [
+{
+"key": "StageTopMovingLight_Color",
+"type": "float",
+"value": 7
+}
+]
+},
+{
+"displayName": "StageTopMovingLight_ColorPattern_OFF",
+"category": "StageTopMovingLight_ColorPattern",
+"showConfirmDialog": false,
+"color": [
+1,
+1,
+1
+],
+"state": [
+{
+"key": "StageTopMovingLight_ColorPattern",
+"type": "bool",
+"value": false
+}
+]
+},
+{
+"displayName": "StageTopMovingLight_ColorPattern_ON",
+"category": "StageTopMovingLight_ColorPattern",
+"showConfirmDialog": false,
+"color": [
+1,
+1,
+1
+],
+"state": [
+{
+"key": "StageTopMovingLight_ColorPattern",
+"type": "bool",
+"value": true
+}
+]
+},
+{
+"displayName": "StageTopMovingLight_DimmerOFF",
+"category": "StageTopMovingLight_Dimmer",
+"showConfirmDialog": false,
+"color": [
+0.96484375,
+0.55078125,
+0.65234375
+],
+"state": [
+{
+"key": "StageTopMovingLight_Dimmer",
+"type": "bool",
+"value": false
+},
+{
+"key": "StageTopMovingLight_Strobo_Dimmer",
+"type": "bool",
+"value": false
+}
+]
+},
+{
+"displayName": "StageTopMovingLight_DimmerON",
+"category": "StageTopMovingLight_Dimmer",
+"showConfirmDialog": false,
+"color": [
+0.96484375,
+0.55078125,
+0.65234375
+],
+"state": [
+{
+"key": "StageTopMovingLight_Dimmer",
+"type": "bool",
+"value": true
+},
+{
+"key": "StageTopMovingLight_Strobo_Dimmer",
+"type": "bool",
+"value": false
+}
+]
+},
+{
+"displayName": "StageTopMovingLight_DimmerON_Strobo",
+"category": "StageTopMovingLight_Dimmer",
+"showConfirmDialog": false,
+"color": [
+0.96484375,
+0.55078125,
+0.65234375
+],
+"state": [
+{
+"key": "StageTopMovingLight_Dimmer",
+"type": "bool",
+"value": true
+},
+{
+"key": "StageTopMovingLight_Strobo_Dimmer",
+"type": "bool",
+"value": true
+}
+]
+},
+{
+"displayName": "StageTopMovingLight_DoublesOFF",
+"category": "StageTopMovingLight_Doubles",
+"showConfirmDialog": false,
+"color": [
+0,
+0,
+0
+],
+"state": [
+{
+"key": "StageTopMovingLight_Doubles",
+"type": "bool",
+"value": false
+}
+]
+},
+{
+"displayName": "StageTopMovingLight_DoublesON",
+"category": "StageTopMovingLight_Doubles",
+"showConfirmDialog": false,
+"color": [
+0,
+0,
+0
+],
+"state": [
+{
+"key": "StageTopMovingLight_Doubles",
+"type": "bool",
+"value": true
+}
+]
+},

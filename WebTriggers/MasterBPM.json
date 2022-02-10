@@ -1,0 +1,123 @@
+{
+  "triggers": [
+    {
+      "displayName": "MasterBPM_45",
+      "category": "MasterBPM",
+      "showConfirmDialog": false,
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "state": [
+        {
+          "key": "MasterBPM",
+          "type": "float",
+          "value": 45
+        }
+      ]
+    },
+    {
+      "displayName": "MasterBPM_90",
+      "category": "MasterBPM",
+      "showConfirmDialog": false,
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "state": [
+        {
+          "key": "MasterBPM",
+          "type": "float",
+          "value": 90
+        }
+      ]
+    },
+    {
+      "displayName": "MasterBPM_120",
+      "category": "MasterBPM",
+      "showConfirmDialog": false,
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "state": [
+        {
+          "key": "MasterBPM",
+          "type": "float",
+          "value": 120
+        }
+      ]
+    },
+    {
+      "displayName": "MasterBPM_150",
+      "category": "MasterBPM",
+      "showConfirmDialog": false,
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "state": [
+        {
+          "key": "MasterBPM",
+          "type": "float",
+          "value": 150
+        }
+      ]
+    },
+    {
+      "displayName": "MasterBPM_180",
+      "category": "MasterBPM",
+      "showConfirmDialog": false,
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "state": [
+        {
+          "key": "MasterBPM",
+          "type": "float",
+          "value": 180
+        }
+      ]
+    },
+    {
+      "displayName": "MasterBPM_210",
+      "category": "MasterBPM",
+      "showConfirmDialog": false,
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "state": [
+        {
+          "key": "MasterBPM",
+          "type": "float",
+          "value": 210
+        }
+      ]
+    },
+    {
+      "displayName": "MasterBPM_420",
+      "category": "MasterBPM",
+      "showConfirmDialog": false,
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "state": [
+        {
+          "key": "MasterBPM",
+          "type": "float",
+          "value": 420
+        }
+      ]
+    }
+  ]
+}

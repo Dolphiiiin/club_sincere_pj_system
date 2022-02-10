@@ -1,0 +1,187 @@
+{
+  "triggers": [
+    {
+      "displayName": "S2L_Trigger_Bass_0",
+      "category": "S2L_Trigger_Bass",
+      "showConfirmDialog": false,
+      "color": [
+        0.91796875,
+        0.078125,
+        0.296875
+      ],
+      "state": [
+        {
+          "key": "S2L_Trigger_Bass_0",
+          "type": "signal"
+        }
+      ]
+    },
+    {
+      "displayName": "S2L_Trigger_Bass_100",
+      "category": "S2L_Trigger_Bass",
+      "showConfirmDialog": false,
+      "color": [
+        0.91796875,
+        0.078125,
+        0.296875
+      ],
+      "state": [
+        {
+          "key": "S2L_Trigger_Bass_100",
+          "type": "signal"
+        }
+      ]
+    },
+
+
+    {
+      "displayName": "S2L_Trigger_LowMid_0",
+      "category": "S2L_Trigger_LowMid",
+      "showConfirmDialog": false,
+      "color": [
+        0.984375,
+        0.72265625,
+        0
+      ],
+      "state": [
+        {
+          "key": "S2L_Trigger_LowMid_0",
+          "type": "signal"
+        }
+      ]
+    },
+    {
+      "displayName": "S2L_Trigger_LowMid_100",
+      "category": "S2L_Trigger_LowMid",
+      "showConfirmDialog": false,
+      "color": [
+        0.984375,
+        0.72265625,
+        0
+      ],
+      "state": [
+        {
+          "key": "S2L_Trigger_LowMid_100",
+          "type": "signal"
+        }
+      ]
+    },
+
+
+    {
+      "displayName": "S2L_Trigger_HiMid_0",
+      "category": "S2L_Trigger_HiMid",
+      "showConfirmDialog": false,
+      "color": [
+        0,
+        0.8125,
+        0.515625
+      ],
+      "state": [
+        {
+          "key": "S2L_Trigger_HiMid_0",
+          "type": "signal"
+        }
+      ]
+    },
+    {
+      "displayName": "S2L_Trigger_HiMid_100",
+      "category": "S2L_Trigger_HiMid",
+      "showConfirmDialog": false,
+      "color": [
+        0,
+        0.8125,
+        0.515625
+      ],
+      "state": [
+        {
+          "key": "S2L_Trigger_HiMid_100",
+          "type": "signal"
+        }
+      ]
+    },
+
+    {
+      "displayName": "S2L_Trigger_High_0",
+      "category": "S2L_Trigger_High",
+      "showConfirmDialog": false,
+      "color": [
+        0.0234375,
+        0.57421875,
+        0.88671875
+      ],
+      "state": [
+        {
+          "key": "S2L_Trigger_High_0",
+          "type": "signal"
+        }
+      ]
+    },
+    {
+      "displayName": "S2L_Trigger_High_100",
+      "category": "S2L_Trigger_High",
+      "showConfirmDialog": false,
+      "color": [
+        0.0234375,
+        0.57421875,
+        0.88671875
+      ],
+      "state": [
+        {
+          "key": "S2L_Trigger_High_100",
+          "type": "signal"
+        }
+      ]
+    },
+
+
+    {
+      "displayName": "S2L_Trigger_Silence_0",
+      "category": "S2L_Trigger_Silence",
+      "showConfirmDialog": false,
+      "color": [
+        0.66796875,
+        0.71875,
+        0.76171875
+      ],
+      "state": [
+        {
+          "key": "S2L_Trigger_Silence_0",
+          "type": "signal"
+        }
+      ]
+    },
+    {
+      "displayName": "S2L_Trigger_Silence_100",
+      "category": "S2L_Trigger_Silence",
+      "showConfirmDialog": false,
+      "color": [
+        0.66796875,
+        0.71875,
+        0.76171875
+      ],
+      "state": [
+        {
+          "key": "S2L_Trigger_Silence_100",
+          "type": "signal"
+        }
+      ]
+    },
+    {
+      "displayName": "Smoke",
+      "category": "Smoke",
+      "showConfirmDialog": false,
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "state": [
+        {
+          "key": "Smoke",
+          "type": "signal"
+        }
+      ]
+    }
+  ]
+}

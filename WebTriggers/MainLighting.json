@@ -1,0 +1,1641 @@
+{
+  "triggers": [
+    {
+      "displayName": "StageTopParLight_Color__White",
+      "category": "StageTopParLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.99609375,
+        0.99609375,
+        0.99609375
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_Color",
+          "type": "float",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_Color__Red",
+      "category": "StageTopParLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.91796875,
+        0.078125,
+        0.296875
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_Color",
+          "type": "float",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_Color__LightGreen",
+      "category": "StageTopParLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0,
+        0.8125,
+        0.515625
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_Color",
+          "type": "float",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_Color__Orange",
+      "category": "StageTopParLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.99609375,
+        0.41015625,
+        0
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_Color",
+          "type": "float",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_Color__Blue",
+      "category": "StageTopParLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.0234375,
+        0.57421875,
+        0.88671875
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_Color",
+          "type": "float",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_Color__Yellow",
+      "category": "StageTopParLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.984375,
+        0.72265625,
+        0
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_Color",
+          "type": "float",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_Color__LightGreen",
+      "category": "StageTopParLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.48046875,
+        0.859375,
+        0.70703125
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_Color",
+          "type": "float",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_Color_LightBlue",
+      "category": "StageTopParLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.5546875,
+        0.81640625,
+        0.984375
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_Color",
+          "type": "float",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_ColorPattern_OFF",
+      "category": "StageTopParLight_ColorPattern",
+      "showConfirmDialog": false,
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_ColorPattern",
+          "type": "bool",
+          "value": false
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_ColorPattern_ON",
+      "category": "StageTopParLight_ColorPattern",
+      "showConfirmDialog": false,
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_ColorPattern",
+          "type": "bool",
+          "value": true
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_ColorSmooth_45",
+      "category": "StageTopParLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_ColorSmooth",
+          "type": "float",
+          "value": 45
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_ColorSmooth_90",
+      "category": "StageTopParLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_ColorSmooth",
+          "type": "float",
+          "value": 90
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_ColorSmooth__120",
+      "category": "StageTopParLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_ColorSmooth",
+          "type": "float",
+          "value": 120
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_ColorSmooth__150",
+      "category": "StageTopParLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_ColorSmooth",
+          "type": "float",
+          "value": 150
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_ColorSmooth__180",
+      "category": "StageTopParLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_ColorSmooth",
+          "type": "float",
+          "value": 180
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_ColorSmooth__210",
+      "category": "StageTopParLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_ColorSmooth",
+          "type": "float",
+          "value": 210
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_ColorSmooth__420",
+      "category": "StageTopParLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_ColorSmooth",
+          "type": "float",
+          "value": 420
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_Strobo_0",
+      "category": "StageTopParLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_Strobo",
+          "type": "float",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_Strobo_1",
+      "category": "StageTopParLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_Strobo",
+          "type": "float",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_Strobo_45",
+      "category": "StageTopParLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_Strobo",
+          "type": "float",
+          "value": 45
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_Strobo_90",
+      "category": "StageTopParLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_Strobo",
+          "type": "float",
+          "value": 90
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_Strobo__120",
+      "category": "StageTopParLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_Strobo",
+          "type": "float",
+          "value": 120
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_Strobo__150",
+      "category": "StageTopParLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_Strobo",
+          "type": "float",
+          "value": 150
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_Strobo__180",
+      "category": "StageTopParLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_Strobo",
+          "type": "float",
+          "value": 180
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_Strobo__210",
+      "category": "StageTopParLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_Strobo",
+          "type": "float",
+          "value": 210
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopParLight_Strobo__420",
+      "category": "StageTopParLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopParLight_Strobo",
+          "type": "float",
+          "value": 420
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_Color__White",
+      "category": "StageTopMovingLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.99609375,
+        0.99609375,
+        0.99609375
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_Color",
+          "type": "float",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_Color__Red",
+      "category": "StageTopMovingLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.91796875,
+        0.078125,
+        0.296875
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_Color",
+          "type": "float",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_Color__LightGreen",
+      "category": "StageTopMovingLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0,
+        0.8125,
+        0.515625
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_Color",
+          "type": "float",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_Color__Orange",
+      "category": "StageTopMovingLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.99609375,
+        0.41015625,
+        0
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_Color",
+          "type": "float",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_Color__Blue",
+      "category": "StageTopMovingLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.0234375,
+        0.57421875,
+        0.88671875
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_Color",
+          "type": "float",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_Color__Yellow",
+      "category": "StageTopMovingLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.984375,
+        0.72265625,
+        0
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_Color",
+          "type": "float",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_Color__LightGreen",
+      "category": "StageTopMovingLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.48046875,
+        0.859375,
+        0.70703125
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_Color",
+          "type": "float",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_Color_LightBlue",
+      "category": "StageTopMovingLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.5546875,
+        0.81640625,
+        0.984375
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_Color",
+          "type": "float",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_ColorPattern_OFF",
+      "category": "StageTopMovingLight_ColorPattern",
+      "showConfirmDialog": false,
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_ColorPattern",
+          "type": "bool",
+          "value": false
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_ColorPattern_ON",
+      "category": "StageTopMovingLight_ColorPattern",
+      "showConfirmDialog": false,
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_ColorPattern",
+          "type": "bool",
+          "value": true
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_ColorSmooth_45",
+      "category": "StageTopMovingLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_ColorSmooth",
+          "type": "float",
+          "value": 45
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_ColorSmooth_90",
+      "category": "StageTopMovingLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_ColorSmooth",
+          "type": "float",
+          "value": 90
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_ColorSmooth__120",
+      "category": "StageTopMovingLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_ColorSmooth",
+          "type": "float",
+          "value": 120
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_ColorSmooth__150",
+      "category": "StageTopMovingLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_ColorSmooth",
+          "type": "float",
+          "value": 150
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_ColorSmooth__180",
+      "category": "StageTopMovingLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_ColorSmooth",
+          "type": "float",
+          "value": 180
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_ColorSmooth__210",
+      "category": "StageTopMovingLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_ColorSmooth",
+          "type": "float",
+          "value": 210
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_ColorSmooth__420",
+      "category": "StageTopMovingLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_ColorSmooth",
+          "type": "float",
+          "value": 420
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_Strobo_0",
+      "category": "StageTopMovingLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_Strobo",
+          "type": "float",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_Strobo_1",
+      "category": "StageTopMovingLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_Strobo",
+          "type": "float",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_Strobo_45",
+      "category": "StageTopMovingLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_Strobo",
+          "type": "float",
+          "value": 45
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_Strobo_90",
+      "category": "StageTopMovingLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_Strobo",
+          "type": "float",
+          "value": 90
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_Strobo__120",
+      "category": "StageTopMovingLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_Strobo",
+          "type": "float",
+          "value": 120
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_Strobo__150",
+      "category": "StageTopMovingLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_Strobo",
+          "type": "float",
+          "value": 150
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_Strobo__180",
+      "category": "StageTopMovingLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_Strobo",
+          "type": "float",
+          "value": 180
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_Strobo__210",
+      "category": "StageTopMovingLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_Strobo",
+          "type": "float",
+          "value": 210
+        }
+      ]
+    },
+    {
+      "displayName": "StageTopMovingLight_Strobo__420",
+      "category": "StageTopMovingLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageTopMovingLight_Strobo",
+          "type": "float",
+          "value": 420
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_Color__White",
+      "category": "SpeakerTopMovingLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.99609375,
+        0.99609375,
+        0.99609375
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_Color",
+          "type": "float",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_Color__Red",
+      "category": "SpeakerTopMovingLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.91796875,
+        0.078125,
+        0.296875
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_Color",
+          "type": "float",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_Color__LightGreen",
+      "category": "SpeakerTopMovingLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0,
+        0.8125,
+        0.515625
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_Color",
+          "type": "float",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_Color__Orange",
+      "category": "SpeakerTopMovingLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.99609375,
+        0.41015625,
+        0
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_Color",
+          "type": "float",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_Color__Blue",
+      "category": "SpeakerTopMovingLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.0234375,
+        0.57421875,
+        0.88671875
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_Color",
+          "type": "float",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_Color__Yellow",
+      "category": "SpeakerTopMovingLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.984375,
+        0.72265625,
+        0
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_Color",
+          "type": "float",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_Color__LightGreen",
+      "category": "SpeakerTopMovingLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.48046875,
+        0.859375,
+        0.70703125
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_Color",
+          "type": "float",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_Color_LightBlue",
+      "category": "SpeakerTopMovingLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.5546875,
+        0.81640625,
+        0.984375
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_Color",
+          "type": "float",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_ColorPattern_OFF",
+      "category": "SpeakerTopMovingLight_ColorPattern",
+      "showConfirmDialog": false,
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_ColorPattern",
+          "type": "bool",
+          "value": false
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_ColorPattern_ON",
+      "category": "SpeakerTopMovingLight_ColorPattern",
+      "showConfirmDialog": false,
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_ColorPattern",
+          "type": "bool",
+          "value": true
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_ColorSmooth_45",
+      "category": "SpeakerTopMovingLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_ColorSmooth",
+          "type": "float",
+          "value": 45
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_ColorSmooth_90",
+      "category": "SpeakerTopMovingLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_ColorSmooth",
+          "type": "float",
+          "value": 90
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_ColorSmooth__120",
+      "category": "SpeakerTopMovingLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_ColorSmooth",
+          "type": "float",
+          "value": 120
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_ColorSmooth__150",
+      "category": "SpeakerTopMovingLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_ColorSmooth",
+          "type": "float",
+          "value": 150
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_ColorSmooth__180",
+      "category": "SpeakerTopMovingLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_ColorSmooth",
+          "type": "float",
+          "value": 180
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_ColorSmooth__210",
+      "category": "SpeakerTopMovingLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_ColorSmooth",
+          "type": "float",
+          "value": 210
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_ColorSmooth__420",
+      "category": "SpeakerTopMovingLight_ColorSmooth",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_ColorSmooth",
+          "type": "float",
+          "value": 420
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_Strobo_0",
+      "category": "SpeakerTopMovingLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_Strobo",
+          "type": "float",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_Strobo_1",
+      "category": "SpeakerTopMovingLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_Strobo",
+          "type": "float",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_Strobo_45",
+      "category": "SpeakerTopMovingLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_Strobo",
+          "type": "float",
+          "value": 45
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_Strobo_90",
+      "category": "SpeakerTopMovingLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_Strobo",
+          "type": "float",
+          "value": 90
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_Strobo__120",
+      "category": "SpeakerTopMovingLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_Strobo",
+          "type": "float",
+          "value": 120
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_Strobo__150",
+      "category": "SpeakerTopMovingLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_Strobo",
+          "type": "float",
+          "value": 150
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_Strobo__180",
+      "category": "SpeakerTopMovingLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_Strobo",
+          "type": "float",
+          "value": 180
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_Strobo__210",
+      "category": "SpeakerTopMovingLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_Strobo",
+          "type": "float",
+          "value": 210
+        }
+      ]
+    },
+    {
+      "displayName": "SpeakerTopMovingLight_Strobo__420",
+      "category": "SpeakerTopMovingLight_Strobo",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "SpeakerTopMovingLight_Strobo",
+          "type": "float",
+          "value": 420
+        }
+      ]
+    },
+    {
+      "displayName": "StageSideParLight_Color__White",
+      "category": "StageSideParLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.99609375,
+        0.99609375,
+        0.99609375
+      ],
+      "state": [
+        {
+          "key": "StageSideParLight_Color",
+          "type": "float",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "displayName": "StageSideParLight_Color__Red",
+      "category": "StageSideParLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.91796875,
+        0.078125,
+        0.296875
+      ],
+      "state": [
+        {
+          "key": "StageSideParLight_Color",
+          "type": "float",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "displayName": "StageSideParLight_Color__LightGreen",
+      "category": "StageSideParLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0,
+        0.8125,
+        0.515625
+      ],
+      "state": [
+        {
+          "key": "StageSideParLight_Color",
+          "type": "float",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "displayName": "StageSideParLight_Color__Orange",
+      "category": "StageSideParLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.99609375,
+        0.41015625,
+        0
+      ],
+      "state": [
+        {
+          "key": "StageSideParLight_Color",
+          "type": "float",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "displayName": "StageSideParLight_Color__Blue",
+      "category": "StageSideParLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.0234375,
+        0.57421875,
+        0.88671875
+      ],
+      "state": [
+        {
+          "key": "StageSideParLight_Color",
+          "type": "float",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "displayName": "StageSideParLight_Color__Yellow",
+      "category": "StageSideParLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.984375,
+        0.72265625,
+        0
+      ],
+      "state": [
+        {
+          "key": "StageSideParLight_Color",
+          "type": "float",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "displayName": "StageSideParLight_Color__LightGreen",
+      "category": "StageSideParLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.48046875,
+        0.859375,
+        0.70703125
+      ],
+      "state": [
+        {
+          "key": "StageSideParLight_Color",
+          "type": "float",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "displayName": "StageSideParLight_Color_LightBlue",
+      "category": "StageSideParLight_Color",
+      "showConfirmDialog": false,
+      "color": [
+        0.5546875,
+        0.81640625,
+        0.984375
+      ],
+      "state": [
+        {
+          "key": "StageSideParLight_Color",
+          "type": "float",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "displayName": "StageSideParLight_ColorPattern_OFF",
+      "category": "StageSideParLight_ColorPattern",
+      "showConfirmDialog": false,
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "state": [
+        {
+          "key": "StageSideParLight_ColorPattern",
+          "type": "bool",
+          "value": false
+        }
+      ]
+    },
+    {
+      "displayName": "StageSideParLight_ColorPattern_ON",
+      "category": "StageSideParLight_ColorPattern",
+      "showConfirmDialog": false,
+      "color": [
+        1,
+        1,
+        1
+      ],
+      "state": [
+        {
+          "key": "StageSideParLight_ColorPattern",
+          "type": "bool",
+          "value": true
+        }
+      ]
+    },
+
+    {
+      "displayName": "StageSideParLight_DimmerOFF",
+      "category": "StageSideParLight_Dimmer",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageSideParLight_Dimmer",
+          "type": "bool",
+          "value": false
+        },
+        {
+          "key": "StageSideParLight_Strobo_Dimmer",
+          "type": "bool",
+          "value": false
+        }
+      ]
+    },
+    {
+      "displayName": "StageSideParLight_DimmerON",
+      "category": "StageSideParLight_Dimmer",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageSideParLight_Dimmer",
+          "type": "bool",
+          "value": true
+        },
+        {
+          "key": "StageSideParLight_Strobo_Dimmer",
+          "type": "bool",
+          "value": false
+        }
+      ]
+    },
+    {
+      "displayName": "StageSideParLight_DimmerON_Strobo",
+      "category": "StageSideParLight_Dimmer",
+      "showConfirmDialog": false,
+      "color": [
+        0.96484375,
+        0.55078125,
+        0.65234375
+      ],
+      "state": [
+        {
+          "key": "StageSideParLight_Dimmer",
+          "type": "bool",
+          "value": true
+        },
+        {
+          "key": "StageSideParLight_Strobo_Dimmer",
+          "type": "bool",
+          "value": true
+        }
+      ]
+    },
+
+
+
+    {
+      "displayName": "StageSideParLight_DoublesOFF",
+      "category": "StageSideParLight_Doubles",
+      "showConfirmDialog": false,
+      "color": [
+        0,
+        0,
+          0
+      ],
+      "state": [
+        {
+          "key": "StageSideParLight_Doubles",
+          "type": "bool",
+          "value": false
+        }
+      ]
+    },
+    {
+      "displayName": "StageSideParLight_DoublesON",
+      "category": "StageSideParLight_Doubles",
+      "showConfirmDialog": false,
+      "color": [
+        0,
+        0,
+          0
+      ],
+      "state": [
+        {
+          "key": "StageSideParLight_Doubles",
+          "type": "bool",
+          "value": true
+        }
+      ]
+    },
+
+
+
+    {
+      "displayName": "MirrorBall_OFF",
+      "category": "MirrorBall",
+      "showConfirmDialog": false,
+      "color": [
+        0,
+        0,
+          0
+      ],
+      "state": [
+        {
+          "key": "MirrorBall",
+          "type": "bool",
+          "value": false
+        }
+      ]
+    },
+    {
+      "displayName": "MirrorBall_ON",
+      "category": "MirrorBall",
+      "showConfirmDialog": false,
+      "color": [
+        0,
+        0,
+        0
+      ],
+      "state": [
+        {
+          "key": "MirrorBall",
+          "type": "bool",
+          "value": true
+        }
+      ]
+    }
+  ]
+}
