@@ -32,7 +32,7 @@ options_bpm.addArguments('user-data-dir=/temp/club_sincere/Profile_1');
 let driver = new Builder().forBrowser('chrome').setChromeOptions(options_bpm).build();
 //selenium implicitly_wait
 driver.get('https://cluster.mu/account/events');
-
+driver.findElement(By.xpath('//*[text()="JSONを読み込む"]')).sendKeys("WebTriggers/S2L_Triggers.json");
 setInterval(() => {
     //find element by text "MasterBPM_"
     try {

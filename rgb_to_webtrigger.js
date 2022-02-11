@@ -26,6 +26,8 @@ options1.addArguments('user-data-dir=/temp/club_sincere/DMX/Profile_1');
 let driver1 = new Builder().forBrowser('chrome').setChromeOptions(options1).build();
 //selenium implicitly_wait
 driver1.get('https://cluster.mu/account/events');
+driver1.findElement(By.xpath('//*[text()="JSONを読み込む"]')).sendKeys("WebTriggers/S2L_Triggers.json");
+
 const options2 = new chrome.Options();
 options2.addArguments('user-data-dir=/temp/club_sincere/DMX/Profile_2');
 let driver2 = new Builder().forBrowser('chrome').setChromeOptions(options2).build();
